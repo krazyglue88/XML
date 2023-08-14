@@ -1,1 +1,10 @@
-
+<bug_report>
+  <ID>1</1>
+  <Summary>Не отображается футер на всех страницах сайта при переключении в мобильную версию</Summary>
+  <Product>Apteki.kg</Product>
+  <Environment>Build:1.52.9/Browser:Google Chrome 113.0.5672.93/OS: WINDOWS 11</Environment>
+  <Prerequisites>В девелоперской консоли в браузере выбрать разрешение экрана - iPhone SE</Prerequisites>
+  <Steps_to_reproduce>Проскроллить до самого низа главной страницы сайта</Steps_to_reproduce>
+  <Expected_result>Страница оканчивается разделом с дополнительными ссылками</Expected_result>
+  <Actual_result>Раздел с дополнительными ссылками отсутствует</Actual_result>
+</bug_report>
