@@ -1,5 +1,5 @@
 <bug_report>
-  <ID>1</1>
+  <ID>1</ID>
   <Summary>Не отображается футер на всех страницах сайта при переключении в мобильную версию</Summary>
   <Product>Apteki.kg</Product>
   <Environment>Build:1.52.9/Browser:Google Chrome 113.0.5672.93/OS: WINDOWS 11</Environment>
